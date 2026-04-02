@@ -8,7 +8,7 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Dar%20es%20Salaam%2C%20Tanzania-🇹🇿-blue?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Tanzania-🇹🇿-blue?style=flat-square" alt="Location" />
   </p>
 
   <p>
