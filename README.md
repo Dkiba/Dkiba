@@ -1,23 +1,19 @@
 <div align="center">
-  <h1>👋 Hey there! I'm Dennis Kibahila (Dkiba)</h1>
+  <h1>👋 Hello! I'm Dennis Kibahila (Dkiba)</h1>
   
   <p>
     <strong>Backend Developer</strong> | 
-    <strong>System Integrator</strong> | 
+    <strong>Full-Stack Engineer</strong> | 
     <strong>DevOps Enthusiast</strong>
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Tanzania-🇹🇿-blue?style=flat-square" alt="Location" />
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/kibahila">
-      <img src="https://img.shields.io/badge/Twitter-@kibahila-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
+    <img src="https://img.shields.io/badge/Dar%20es%20Salaam%2C%20Tanzania-🇹🇿-blue?style=flat-square" alt="Location" />
   </p>
 
   <p>
-    Passionate about crafting <strong>scalable backend systems</strong>, robust APIs, and seamless infrastructure. 
-    I turn complex real-world problems into clean, maintainable code — with a strong focus on enterprise applications and DevOps excellence.
+    Passionate about building <strong>scalable backend systems</strong>, robust APIs, and modern web applications. 
+    I love turning complex problems into clean, efficient, and maintainable solutions.
   </p>
 
   <blockquote>
@@ -29,15 +25,18 @@
 
 ## 🧭 About Me
 
-I'm a **backend-first engineer** based in **Dar es Salaam, Tanzania**, specializing in building high-performance web applications, API integrations, and containerized systems. 
+I'm a **backend-focused software developer** based in **Tanzania**. 
 
-Whether it's powering enterprise solutions with **Spring Boot & Vaadin**, modernizing backends with **Laravel**, or optimizing Linux infrastructure with **Docker & Nginx**, I thrive on creating reliable, scalable systems that solve real business challenges.
+With strong expertise in enterprise backend development, I enjoy designing and implementing high-performance systems using **Spring Boot**, **Laravel**, and modern frontend technologies like **Angular** and **Vaadin**. 
+
+I also have hands-on experience with **Docker**, **Nginx**, Linux server optimization, and seamless system integrations — always aiming for clean architecture and reliable deployments.
 
 **Current focus areas:**
-- Enterprise Java applications (Spring Boot + Vaadin)
-- API-driven backends & system integrations
-- Dockerized deployments & Linux server optimization
-- Clean architecture and performance tuning
+- Scalable backend services and REST/GraphQL APIs
+- Enterprise Java applications with Spring Boot
+- Modern PHP development with Laravel
+- Frontend development using Angular and Vaadin
+- Containerization, DevOps practices, and Linux infrastructure
 
 ---
 
@@ -47,15 +46,16 @@ Whether it's powering enterprise solutions with **Spring Boot & Vaadin**, modern
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
 
 ### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,7 +63,7 @@ Whether it's powering enterprise solutions with **Spring Boot & Vaadin**, modern
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Tools & Platforms
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -85,33 +85,23 @@ Whether it's powering enterprise solutions with **Spring Boot & Vaadin**, modern
 
 ---
 
-## 🔥 Featured Projects
+## 📬 Get in Touch
 
-Here are some of the repositories I’ve worked on:
+I'm always open to interesting discussions, collaborations, or opportunities in backend development, system integration, or DevOps.
 
-- **[sales-server](https://github.com/Dkiba/sales-server)** — Stock recommendation system (Python)
-- **[WaziApps-examples](https://github.com/Dkiba/WaziApps-examples)** — Example applications for the WaziApps platform
-- **Java practice apps** — DiceRoll, Magic8ball, XylophoneApp (demonstrating clean Java fundamentals)
-
-Explore all my work → [Repositories](https://github.com/Dkiba?tab=repositories)
-
----
-
-## 📬 Let's Connect & Collaborate
-
+- **Email**: [kibahiladennis@gmail.com](mailto:kibahiladennis@gmail.com)
+- **LinkedIn**: [Dennis Kibahila](https://tz.linkedin.com/in/dennis-kibahila-614954176)
 - **X / Twitter**: [@kibahila](https://twitter.com/kibahila)
-- **Email**: Feel free to reach out via GitHub Discussions or Twitter
-- Open to **collaborations**, **open-source contributions**, and **interesting backend/DevOps projects**
 
 ---
 
 <div align="center">
   <p>
-    <strong>Thanks for stopping by! ⭐</strong><br>
-    If you find any of my projects useful, feel free to star them — it really motivates me to keep building better systems.
+    <strong>Thanks for visiting my profile! ⭐</strong><br>
+    Feel free to explore my repositories and reach out if you'd like to connect or collaborate.
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Tanzania-blue?style=flat-square" alt="Made with love" />
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Tanzania-blue?style=flat-square" alt="Made with love in Tanzania" />
   </p>
 </div>
